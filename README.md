@@ -3,6 +3,9 @@
 ## 프로잭트 소개
 기업 멤버십 디지털존 프로젝트 - Yolov5와 TRBA 모델을 활용한 OCR 파이프라인 구축 및 dashboard 구성
 
+## 개발 기간
+2023.08.02~09.07
+
 ## 사용된 기술 스택
 Pytorch / nltk / Pillow / opencv / lmdb / natsort/yolov5
 
